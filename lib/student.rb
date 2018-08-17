@@ -49,6 +49,9 @@ class Student
   def self.new_from_db(row)
     
   end
+  
+  def update
+  end
 
 
 end
